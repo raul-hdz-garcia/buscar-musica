@@ -1,7 +1,11 @@
 # Base de datos SQL de cantantes y canciones
-**Tecnologías usadas: Java, Spring Boot, MySQL**
+**Tecnologías usadas:**
+- Java
+- Spring Boot
+- PostgreSQL
 
-Este programa utiliza una base de datos local en MySQL. </br>
+**Descripción del proyecto** </br>
+Este programa utiliza una base de datos local en PostgreSQL. </br>
 Al iniciar el programa aparece el siguiente menú: </br>
 ![image](https://github.com/user-attachments/assets/38980a2a-c49c-460d-a085-c27dd9a3e94c)
 
