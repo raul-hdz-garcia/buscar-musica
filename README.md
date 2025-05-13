@@ -23,3 +23,10 @@ Por último volvemos a seleccionar la opción 3 para buscar la última canción 
 
 Se selecciona la opción 0 y se cierra el programa: </br>
 ![image](https://github.com/user-attachments/assets/24f7e825-4cb2-45e8-8041-31aa04990c4e)
+
+**Excepciones** </br>
+Selección de opción no disponible en el menú: </br>
+![image](https://github.com/user-attachments/assets/85c44276-9c4b-43ed-bc02-97bc8ee7184a)
+
+Selección de cantante no reigstrado: </br>
+![image](https://github.com/user-attachments/assets/86216c52-72d0-4793-8193-b1e2b9e0e60f)
